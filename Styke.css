@@ -1,9 +1,5 @@
     
-        body {
-            background-color: #ecdfc8;
-        }
-
-        hr {
+              hr {
             border-color: grey;
             border-style:none;
             border-top: dotted;
@@ -16,4 +12,7 @@
 {
     color:#66BFBF;
     font-family:monospace;
+}
+  body {
+  background-color: #faf5e4;
 }
