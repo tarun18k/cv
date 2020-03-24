@@ -1,18 +1,63 @@
-    
-              hr {
-            border-color: grey;
-            border-style:none;
-            border-top: dotted;
-            border-width: 5px;
-            width: 10%;
-            height: 0;
-        }
-
-    h1
-{
-    color:#66BFBF;
-    font-family:monospace;
+<--synatx --selector -- {
+    --property: value;
 }
-  body {
-  background-color: #faf5e4;
+
+ hr {    width: 0px;
+    height: 0px;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: monospace;
+}
+
+body {
+    background-color: #faf5e4;
+    background: url(/images/bg.png);
+    background-size:cover;
+    
+    
+   
+}
+
+.mainphoto {
+
+    border-style: groove;
+    border-radius: 100%;
+    border-color: black;
+
+}
+
+.mainphoto:hover {
+    border-style: groove;
+    border-radius: 100%;
+    border-color: black;
+
+    
+    transition-timing-function: linear;
+    
+    width: 300px;
+    height: 300px;
+}
+
+#heading {
+    font-style: oblique;
+}
+
+h3 {
+    font-style: oblique;
+}
+
+.mainpara:hover {
+
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 25px;
+
+    transition-timing-function: linear;
+}
+#top
+{
+    font-family: cursive;
+    font-size: 30px;
 }
