@@ -1,54 +1,74 @@
-body{
+body {
     margin: 0;
     text-align: center;
- font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+    font-family: 'Merriweather', serif;
+
+}
+
+.topcontainer {
+    background-color: #E4F9F5;
+    position: relative;
+    padding: 100px;
+  
+}
+
+h1 {
+    margin:50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Crimson Text', serif;
+    color: #66BFBF;
+      line-height: 1;
+}
+h2 {
+    font-family: 'montserrat', sans-serif;
+    font-size: 2.25rem;
+    color:#66BFBF;
+     
+}
+.programmer{
     
 }
-.toph1{
-    width: 100%;
-    text-align: center;
-    
-    font-style:oblique;
-    margin-top: 5;
-    margin-bottom:2px; 
-    font-size: 70px;
-   
-    
-}
-.btmcld
-{
+
+.btmcld {
     position: absolute;
     display: inline-block;
     left: 350px;
     bottom: 300px;
-    
+
 
 }
-.abvcld
-{
+
+.abvcld {
     margin-top: 15px;
-    margin-left:350px;
+    margin-left: 350px;
 }
-p
-{
+
+p {
     font-family: cursive
 }
-.topcontainer
-{
-  background-color: #E4F9F5;
-    position: relative;
-}
-.middlecontainer
-{
-   
 
+.skill-row{
+    width: 50%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: left;
+    line-height: 2;
     
 }
-p{
-    width:60%; margin:6px auto 6px auto;
-    
+
+p {
+    width: 60%;
+    margin: 6px auto 6px auto;
+
 }
-h2
+
+
+
+h3 {
+    font-family: 'montserrat', sans-serif;
+    color: #11999E;
+}
+a
 {
-    margin: 5px auto 5px auto;
+    color: #11999E;
 }
