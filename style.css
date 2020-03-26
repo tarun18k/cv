@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    text-align: center;
+ font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+    
+}
+.toph1{
+    width: 100%;
+    text-align: center;
+    
+    font-style:oblique;
+    margin-top: 5;
+    margin-bottom:2px; 
+    font-size: 70px;
+   
+    
+}
+.btmcld
+{
+    position: absolute;
+    display: inline-block;
+    left: 350px;
+    bottom: 300px;
+    
+
+}
+.abvcld
+{
+    margin-top: 15px;
+    margin-left:350px;
+}
+p
+{
+    font-family: cursive
+}
+.topcontainer
+{
+  background-color: #E4F9F5;
+    position: relative;
+}
+.middlecontainer
+{
+   
+
+    
+}
+p{
+    width:60%; margin:6px auto 6px auto;
+    
+}
+h2
+{
+    margin: 5px auto 5px auto;
+}
