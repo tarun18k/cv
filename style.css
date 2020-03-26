@@ -47,17 +47,26 @@ p {
     font-family: cursive
 }
 
-.skill-row{
-    width: 50%;
-    margin-left:auto;
-    margin-right:auto;
-    text-align: left;
+.skill-row1{
+   display: table-cell; 
+    width: 50%; 
+    margin-right: 15px;
     line-height: 2;
+   text-align:left;
+border-right: 3px solid black;
+    
     
 }
-
+.skill-row{
+   display: table-cell; 
+    width: 50%; 
+    margin-left: 500px;
+    line-height: 2;
+   text-align:left;   
+    
+}
 p {
-    width: 60%;
+    width: 100%;
     margin: 6px auto 6px auto;
 
 }
@@ -71,4 +80,8 @@ h3 {
 a
 {
     color: #11999E;
+}
+.skill
+{
+
 }
