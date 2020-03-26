@@ -47,9 +47,10 @@ h2 {
 }
 
 hr {
-    border-top: 3px dotted #EAF6F6;
-    width: 10%;
-    border-radius: 10px;
+    border: dotted #EAF6F6 6px;
+    width: 4%;
+    border-bottom:none;
+    margin:100px auto 100px auto;
     
 }
 
