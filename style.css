@@ -2,11 +2,13 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
+    background-image: url(Website-Design-Background.jpg);
+     background-attachment: fixed;
 
 }
 
 .topcontainer {
-    background-image: url(Website-Design-Background.jpg);
+    
     position: relative;
     padding: 100px;
     height: 50%;
