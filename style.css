@@ -4,6 +4,7 @@ body {
     font-family: 'Merriweather', serif;
    background-image: url(Website-Design-Background.jpg);
     background-attachment: fixed;
+    background-repeat:inherit;
 }
 
 .topcontainer {
